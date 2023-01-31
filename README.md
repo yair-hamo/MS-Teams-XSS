@@ -72,4 +72,4 @@ As you can see, the payload was sent from extenal user outside any company, whic
 
 I worked on this exploit for couple of days, and was trying to understand teams' Electron backend messaging protocol and vulnerabilities. I reverse engineered their source code from the ASAR file and tried to find an interesting holes.  
 I managed to do many things such as changing the window dimentions, downloading files, and more. But still not to perform a real RCE.  
-Then came the happy ending, when Microsoft fixed the issue on their new version of Teams.  
+Then came the happy ending, when Microsoft fixed the issue on their new version of Teams, before I sent them my findings.  
