@@ -74,6 +74,8 @@ HTML exploit code example:
 </map>
 ```
 
+Later, I found that others uses the outdated angular-jquey version [as shown here](https://medium.com/@numanturle/microsoft-teams-stored-xss-bypass-csp-8b4a7f5fccbf#:~:text=The%20angular%20version%20I%20saw%20was%20outdated%20(%201.5.14%20).%20I%20knew%20now%20that%20I%20could%20pass%20the%20CSP%20with%20this%20version%E2%80%99s%20vulnerabilities%2C%20which%20started%20my%20journey%20on%20some%20local%20tests.%20Later%2C%20I%20saw%20that%20I%20was%20able%20to%20receive%20alerts%20successfully).
+
 ### 3. Code-snippet sharing - sending the shared code within a message
 The last step, sharing the code-snippet within a message.
 Here we will need to attach the share-id.  
