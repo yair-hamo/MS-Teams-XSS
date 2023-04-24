@@ -1,4 +1,4 @@
-# XSS on Microsoft Teams.
+# XSS via code sharing on Microsoft Teams.
 
 During one of my research projects, I discovered some interesting vulnerabilities on Microsoft Teams. In this article, I will introduce some of them.
 
