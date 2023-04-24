@@ -67,7 +67,7 @@ Those tags with modified target to the _blank attribute bypasses the html saniti
 
 HTML exploit code example:  
 ```HTML
-<h1>Hi.. check thi.. please click on my image:</h1>
+<h1>Hi.. please click on my image:</h1>
 <img src= https://my_image.com/house.png' width='50' heighl t='50' usemap='#xss'>
 <map name= 'xss'>
     <area shape='rect' coords='0, 0, 82, 126' target='_blank' href='http://my_malicious_domain.com'>
